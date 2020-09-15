@@ -4,9 +4,9 @@
 
 ## I'm a Developer, and Teacher!
 
-- 🔭 I’m currently working on a [React][website]!
-- 🌱 I’m currently learning Recoil 🤣
-- 👯 I’m looking working as Lead Web Developer at Ubisoft
+- 🔭 I’m currently working on a [React course][website]!
+- 🌱 I’m currently learning Recoil
+- 👯 I’m working as Lead Web Developer at Ubisoft
 - 🥅 2020 Goals: Learn how to play Guitar
 - ⚡ Fun fact: I have an incredible voice
 
