@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working on a [React course][website]!
 - 🌱 I’m currently learning Recoil
-- 👯 I’m working as Lead Web Developer at Ubisoft
-- 🥅 2020 Goals: Learn how to play Guitar
-- ⚡ Fun fact: I have a cool voice.
+- 👯 I’m working as Lead Web Developer at folk
+- 🥅 2022 Goals: Release a videogame
+- ⚡ Fun fact: I do voiceovers.
 
 ### Spotify Playing 🎧
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/1116868892)
