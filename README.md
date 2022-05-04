@@ -2,6 +2,8 @@
 
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
 
+<a href="https://www.producthunt.com/posts/folk-3?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-folk&#0045;3" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=345336&theme=light" alt="folk - Next&#0045;generation&#0032;CRM&#0044;&#0032;for&#0032;you&#0032;and&#0032;your&#0032;team | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
+
 ## I'm a Developer, and Teacher!
 
 - 🔭 I’m currently working on a [React course][website]!
