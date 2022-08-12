@@ -4,16 +4,13 @@
 
 <a href="https://www.producthunt.com/posts/folk-3?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-folk&#0045;3" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=345336&theme=light" alt="folk - Next&#0045;generation&#0032;CRM&#0044;&#0032;for&#0032;you&#0032;and&#0032;your&#0032;team | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
 
-## I'm a Developer, and Teacher!
+## I'm a Developer, I code stuff to make my life easier
 
-- 🔭 I’m currently working on a [React course][website]!
-- 🌱 I’m currently learning Recoil
-- 👯 I’m working as Lead Web Developer at folk
-- 🥅 2022 Goals: Release a videogame
-- ⚡ Fun fact: I do voiceovers.
+### Projects:
 
-### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/1116868892)
+- [bloks][bloks] is a to-do list based on the [great article by waitButWhy][article]
+
+I'm currently working on a small project to **save all your highlights on Chrome**
 
 ### Connect with me:
 
@@ -65,6 +62,8 @@
 </details>
 
 [website]: https://geshido.io
+[bloks]: https://bloks-sashkan.vercel.app/
+[article]: https://waitbutwhy.com/2016/10/100-blocks-day.html
 [reactplaylist]: https://geshido.io
 [webdevplaylist]: https://geshido.io
 [youtube]: https://www.youtube.com/channel/UC1UlIhaDU3TcCGKsS7X1Lfg
