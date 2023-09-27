@@ -7,7 +7,7 @@
 
 ⚐ Based in Paris
 
-ϟ Currently working at capsule
+ϟ Currently working at Station F
 
 ϟ Recently came back from SE Asia
 
